@@ -65,6 +65,8 @@ We’re eager to explore further advancements in automation and control systems,
 
 Feel free to reach out if you’re interested in discussing the project or exploring potential collaborations!
 
+📧 Email: tharakadidd46@gmail.com
+
 ---
 
 #ElectricalEngineering #Automation #SmartSystems #EnergyEfficiency #ControlSystems #LabVIEW #UniversityOfMoratuwa
