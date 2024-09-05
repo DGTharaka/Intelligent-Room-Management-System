@@ -4,7 +4,7 @@
 
 As part of our 2nd-year Electrical Engineering coursework at the University of Moratuwa, my team and I developed an **Intelligent Room Management System** aimed at optimizing energy efficiency and environmental comfort in conference rooms and lecture halls.
 
-![Group Photo](Group_Photo.jpg)
+![Group Photo](Images/Group_Photo.jpg)
 
 ---
 
@@ -27,7 +27,7 @@ The project focuses on automating fan speed and light intensity based on real-ti
 - **Light Control**: Automatically adjusts light intensity based on the amount of natural light detected by the LDR.
 - **Occupancy-Based Control**: Lights and fan automatically switch off when the room is unoccupied.
 
-![Intelligent Room Management System](Intelligent_Room_Management_System.jpg)
+![Intelligent Room Management System](Images/Intelligent_Room_Management_System.jpg)
 
 ---
 
@@ -35,7 +35,7 @@ The project focuses on automating fan speed and light intensity based on real-ti
 
 We created a model of the room using Styrofoam boards to demonstrate the effectiveness of our control system. This setup allowed us to simulate real-world conditions and fine-tune the automation logic.
 
-![Physical Arrangement](Physical_Arrangement.jpg)
+![Physical Arrangement](Images/Physical_Arrangement.jpg)
 
 ---
 
@@ -43,7 +43,7 @@ We created a model of the room using Styrofoam boards to demonstrate the effecti
 
 We used LabVIEW and DAQmx functions for sensor data acquisition and control logic implementation. Our decision to generate a PWM-like signal directly in LabVIEW was key to staying within the software environment while achieving the desired control.
 
-![LabVIEW Programme](LabVIEW_Programme.png)
+![LabVIEW Programme](Images/LabVIEW_Programme.png)
 
 ---
 
