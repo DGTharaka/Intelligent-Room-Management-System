@@ -2,7 +2,7 @@
 
 🚀 **Project Overview**
 
-As part of our 2nd-year Electrical Engineering coursework at the University of Moratuwa, my team and I developed an **Intelligent Room Management System** aimed at optimizing energy efficiency and environmental comfort in conference rooms and lecture halls.
+As part of our 4th semester Electrical Engineering project at the University of Moratuwa, my team and I developed an **Intelligent Room Management System** aimed at optimizing energy efficiency and environmental comfort in conference rooms and lecture halls.
 
 ![Group Photo](Images/Group_Photo.jpg)
 
